@@ -1,0 +1,21 @@
+# GIS SHAPEFILES
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Ignore shapefile directories
+shapefile/
+merged_shapefile/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.new_venv/
+venv/
+.env/
