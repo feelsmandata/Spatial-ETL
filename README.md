@@ -8,27 +8,31 @@ It provides tools to read, clean, and process geospatial data (such as shapefile
 - Clean and transform raw spatial datasets  
 - Export results into structured formats (e.g., CSV)  
 - Modular design for easy extension and automation  
-
+- Shapefile is not included.
+  
 ## Project Structure
-files/ # Raw and processed data
-main.py # Main entry point
-read_file.py # Utilities for reading shapefiles
-.logs/ # Logs for debugging and tracking runs
-
+-files/ # Raw and processed data
+-main.py # Main entry point
+-read_file.py # Utilities for reading shapefiles
+-.logs/ # Logs for debugging and tracking runs
 
 ## Getting Started
 1. Clone this repository:
    ```bash
    git clone https://github.com/feelsmandata/Spatial-ETL.git
    cd Spatial-ETL
-   
+
 2. Create and activate a virtual environment:
-  python -m venv .venv
-  source .venv/bin/activate  # Linux/Mac
-  .venv\Scripts\activate     # Windows
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # Linux/Mac
+   .venv\Scripts\activate     # Windows
 
 3. Install dependencies:
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. Run the project:
+   ```bash
    python main.py
+
