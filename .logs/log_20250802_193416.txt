@@ -1,0 +1,15 @@
+2025-08-02 19:34:16,954 - INFO - Logging has been configured.
+2025-08-02 19:34:32,478 - INFO - Shapefile loaded successfully: files\shapefile\Cadastral_data_QLD_CADASTRE_DCDB.shp
+2025-08-02 19:34:32,580 - INFO - Reading completed: files\shapefile\Cadastral_data_QLD_CADASTRE_DCDB.shp
+2025-08-02 19:34:33,036 - INFO - CSV file detected and loaded.
+2025-08-02 19:34:33,507 - INFO - Data cleaning and type conversion successful.
+2025-08-02 19:34:34,547 - INFO - Cleaned data exported to files\export\cleaned_data_20250802_193432.csv
+2025-08-02 19:34:34,548 - INFO - Reading completed: files/dataset/Sunshine Coast Merged.csv
+2025-08-02 19:34:43,944 - INFO - Shapefile loaded: files\shapefile\Cadastral_data_QLD_CADASTRE_DCDB.shp
+2025-08-02 19:34:44,210 - INFO - Dropping null values in lotplan.
+2025-08-02 19:34:44,703 - INFO - CSV loaded: files\export\cleaned_data_20250802_154350.csv
+2025-08-02 19:34:45,043 - INFO - Merge completed.
+2025-08-02 19:34:45,612 - INFO - Creating centroid.
+2025-08-02 19:34:55,950 - INFO - Created 44,604 records
+2025-08-02 19:35:05,811 - INFO - Created 44,604 records
+2025-08-02 19:35:05,815 - INFO - Shapefile exported to: files\merged_shapefile\exported_shapefile_20250802_193445.shp

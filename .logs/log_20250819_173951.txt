@@ -1,0 +1,4 @@
+2025-08-19 17:39:51,157 - INFO - Logging has been configured.
+2025-08-19 17:40:27,395 - INFO - Starting shapefile + centroid export...
+2025-08-19 17:41:44,585 - INFO - Shapefile loaded: files\shapefile\Cadastral_data_QLD_CADASTRE_DCDB.shp
+2025-08-19 17:41:45,452 - INFO - Dropping null values in lotplan.

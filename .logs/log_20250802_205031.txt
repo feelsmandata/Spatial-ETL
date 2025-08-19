@@ -1,0 +1,6 @@
+2025-08-02 20:50:31,403 - INFO - Logging has been configured.
+2025-08-02 20:50:34,620 - INFO - Starting file cleaning...
+2025-08-02 20:50:35,101 - INFO - CSV file detected and loaded.
+2025-08-02 20:50:35,683 - INFO - Data cleaning and type conversion successful.
+2025-08-02 20:50:36,292 - INFO - Cleaned data exported to files\export\cleaned_data_20250802_205034.csv
+2025-08-02 20:50:36,300 - INFO - Cleaning complete.

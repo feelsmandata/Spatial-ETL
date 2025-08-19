@@ -1,0 +1,5 @@
+2025-08-02 20:39:19,143 - INFO - Logging has been configured.
+2025-08-02 20:39:29,202 - INFO - Shapefile loaded successfully: files\shapefile\Cadastral_data_QLD_CADASTRE_DCDB.shp
+2025-08-02 20:39:29,203 - INFO - Reading completed: files\shapefile\Cadastral_data_QLD_CADASTRE_DCDB.shp
+2025-08-02 20:39:29,628 - INFO - CSV file detected and loaded.
+2025-08-02 20:39:30,189 - INFO - Data cleaning and type conversion successful.

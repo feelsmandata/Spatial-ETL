@@ -1,0 +1,7 @@
+2025-07-30 20:18:32,252 - INFO - Logging has been configured.
+2025-07-30 20:18:38,103 - INFO - Shapefile loaded successfully: files\shapefile\Cadastral_data_QLD_CADASTRE_DCDB.shp
+2025-07-30 20:18:38,105 - INFO - Reading completed: files\shapefile\Cadastral_data_QLD_CADASTRE_DCDB.shp
+2025-07-30 20:18:38,483 - INFO - CSV file detected and loaded.
+2025-07-30 20:18:38,783 - INFO - Data cleaning and type conversion successful.
+2025-07-30 20:18:39,283 - INFO - Cleaned data exported to files\export\cleaned_data_20250730_201838.csv
+2025-07-30 20:18:39,284 - INFO - Reading completed: files/dataset/Sunshine Coast Merged.csv
